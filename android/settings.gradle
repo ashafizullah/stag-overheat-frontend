@@ -1,0 +1,3 @@
+rootProject.name = 'StagOverheat'
+
+include ':app'
